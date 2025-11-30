@@ -11,7 +11,7 @@ const config: GatsbyConfig = {
     siteTitle: `Cara`,
     siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
     siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
+    siteUrl: 'https://carolinalopes98.github.io/projects_portfolio/', //`https://cara.lekoarts.de`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
